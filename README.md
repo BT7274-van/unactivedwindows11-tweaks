@@ -166,4 +166,4 @@ Disclaimer: Registry modifications alter core backend data nodes. Verify code st
 
 Would you like me to supply a template for a setup instruction file to go with this repository, or would you like to focus on setting up a specific configuration next?
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#031e4d', 'C0C01UE2MH');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C01UE2MH)
